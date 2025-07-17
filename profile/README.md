@@ -1,4 +1,4 @@
-# NexTech-fusion
+# NexTech Fusion GmbH
 
 
- == Your software is fat, inefficient and to expensive ==
+ == Transforming Business with AI ==
